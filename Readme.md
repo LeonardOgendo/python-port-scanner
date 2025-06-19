@@ -3,6 +3,7 @@
 A lightweight yet powerful Python-based TCP port scanner that mimics basic Nmap-style scanning using the native `socket` module. This tool allows users to manually define the target IP and port(s) to scan, helping build a deep understanding of how real-world modern scanners function at the network level.
 
 ---
+<br>
 
 ### 📦 Features
 
@@ -14,11 +15,13 @@ A lightweight yet powerful Python-based TCP port scanner that mimics basic Nmap-
 
 ---
 
+<br>
+
 ### 🧠 Why This Project Matters
 
 Modern tools like **Nmap**, **Masscan**, and **Zmap** are extremely powerful — but it's critical to understand **how they work under the hood**:
 
-> 🔐 **In high-security environments, standard scanners are often blocked or flagged. Building your own tools helps bypass detection, write stealthier logic, and customize behavior.**
+> **In high-security environments, standard scanners are often blocked or flagged. Building your own tools helps bypass detection, write stealthier logic, and customize behavior.**
 
 This scanner teaches:
 - Raw TCP socket logic
@@ -29,9 +32,11 @@ This scanner teaches:
 
 ---
 
+<br>
+
 ### 🚀 Getting Started
 
-#### 🔧 Prerequisites
+#### Prerequisites
 - Python 3.x
 - Basic knowledge of networking and TCP/IP
 
