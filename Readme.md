@@ -31,11 +31,11 @@ This scanner teaches:
 
 ### 🚀 Getting Started
 
-### 🔧 Prerequisites
+#### 🔧 Prerequisites
 - Python 3.x
 - Basic knowledge of networking and TCP/IP
 
-### 📥 Installation
+#### 📥 Installation
 
 Clone the repo:
 
