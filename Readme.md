@@ -3,7 +3,6 @@
 A lightweight yet powerful Python-based TCP port scanner that mimics basic Nmap-style scanning using the native `socket` module. This tool allows users to manually define the target IP and port(s) to scan, helping build a deep understanding of how real-world modern scanners function at the network level.
 
 ---
-<br>
 
 ### 📦 Features
 
@@ -14,8 +13,6 @@ A lightweight yet powerful Python-based TCP port scanner that mimics basic Nmap-
 - ✅ Handles connection errors and user interrupts gracefully
 
 ---
-
-<br>
 
 ### 🧠 Why This Project Matters
 
