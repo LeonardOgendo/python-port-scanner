@@ -18,7 +18,7 @@ def scan_ports(target_ip, ports_to_scan, timeout=1):
             else:
                 print(f"[-] Port {port:<5} is CLOSED")
             
-            socket.close()
+            sock.close()
 
         except socket.error as err:
             print(f"[!] Error connecting to port {port}: {err}")
